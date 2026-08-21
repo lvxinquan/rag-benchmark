@@ -2,6 +2,8 @@
 
 An open-source benchmark toolkit for evaluating Retrieval-Augmented Generation systems.
 
+![A transparent RAG evaluation pipeline from source documents through retrieval, generation, citations, and metrics](assets/hero.png)
+
 > **Status: Foundation**
 >
 > No evaluation outputs have been published yet. This repository currently defines the project scope and engineering baseline.
